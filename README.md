@@ -1,2 +1,2 @@
-# learnings
+# Learnings
 Sharing all my Learnings
